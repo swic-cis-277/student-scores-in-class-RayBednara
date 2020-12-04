@@ -12,3 +12,4 @@ import api from "./api.js"
     console.error(error, "error fetching");
 }
 })();
+
